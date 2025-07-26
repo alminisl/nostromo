@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(npm install)",
+      "Bash(rm:*)",
+      "Bash(cp:*)",
+      "Bash(npm run build:*)",
+      "Bash(node:*)",
+      "Bash(chmod:*)",
+      "Bash(./network-info.js)"
+    ],
+    "deny": []
+  }
+}
