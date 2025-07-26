@@ -17,7 +17,7 @@
 
 ---
 
-Like the USCSS Nostromo cargo vessel, this system reliably transports your digital cargo across local networks with military-grade security. Perfect for teams, families, or anyone who needs to share files securely within their local network.
+Like the USCSS Nostromo, this system reliably transports your digital cargo across local networks with military-grade security. Perfect for teams, families, or anyone who needs to share files securely within their local network.
 
 ## Features
 
